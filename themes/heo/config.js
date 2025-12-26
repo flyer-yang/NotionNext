@@ -22,9 +22,9 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '让我们一起',
   HEO_HERO_TITLE_2: '边走边赚',
   HEO_HERO_TITLE_3: 'blog.yysky2020.xyz',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_4: '',
+  HEO_HERO_TITLE_5: '欢迎来到我的博客',
+  HEO_HERO_TITLE_LINK: 'https://blog.yysky2020.xyz', //这里可以考虑链接到置顶文章或未来某个网站
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
