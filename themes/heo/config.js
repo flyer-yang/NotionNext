@@ -22,7 +22,7 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '让我们一起',
   HEO_HERO_TITLE_2: '边走边赚',
   HEO_HERO_TITLE_3: 'blog.yysky2020.xyz',
-  HEO_HERO_TITLE_4: '',
+  HEO_HERO_TITLE_4: '置顶文章',
   HEO_HERO_TITLE_5: '欢迎来到我的博客',
   HEO_HERO_TITLE_LINK: 'https://blog.yysky2020.xyz', //这里可以考虑链接到置顶文章或未来某个网站
   // 英雄区遮罩文字
@@ -40,13 +40,11 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
-    '你好！我是',
-    '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
-    '🏃 脚踏实地行动派',
-    '🏠 智能家居小能手',
-    '🤖️ 数码科技爱好者',
-    '🧱 团队小组发动机'
+    '欢迎来到我的博客，一起',
+    '💰 搞钱省钱',
+    '🌱 个人成长',
+    '🌈 旅行分享',
+    '边走边赚，精彩不断！'
   ],
 
   // 个人资料底部按钮
