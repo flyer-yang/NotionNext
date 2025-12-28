@@ -111,7 +111,7 @@ const CONFIG = {
       color_1: '#ffffff',
       title_2: 'Hilton',
       img_2: '/images/heo/Hilton Honors_ Book Hotels-iOS-512x512.webp',
-      color_2: '#ffffff'
+      color_2: '#f5f5f5'
     }
   ],
 
