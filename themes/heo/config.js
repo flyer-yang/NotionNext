@@ -24,7 +24,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'blog.yysky2020.xyz',
   HEO_HERO_TITLE_4: '置顶文章',
   HEO_HERO_TITLE_5: '欢迎来到我的博客',
-  HEO_HERO_TITLE_LINK: 'https://blog.yysky2020.xyz', //这里可以考虑链接到置顶文章或未来某个网站
+  HEO_HERO_TITLE_LINK: 'https://blog.yysky2020.xyz/wealth/best-way-to-wire-international', //这里可以考虑链接到置顶文章或未来某个网站
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
